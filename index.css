@@ -1,0 +1,16 @@
+#header{background: #1B3C53 !important;}
+#footer{
+    background-color: #456882;
+}
+body{
+background-color: #BADFDB;
+}
+#ponentes{
+    color: black;
+}
+#lugarfechas img{
+    max-width: 100%;
+}
+footer a,p{
+color: aliceblue;
+}
